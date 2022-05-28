@@ -1,0 +1,13 @@
+html{
+    font-size:22px
+}
+a{
+    color:brown
+}
+a:visited{
+    color:black;
+}
+
+a:hover ,a:active{
+    color:black;
+}
